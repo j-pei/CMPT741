@@ -2,4 +2,4 @@ theme: jekyll-theme-slate
 title: 'CMPT 741: Data Mining'
 subtitle: 'Instructor: Jian Pei'
 github:
-   is_project_page: false
+   is_project_page: false 
