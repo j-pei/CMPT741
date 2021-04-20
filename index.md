@@ -29,7 +29,7 @@ What should you do when you are facing a huge amount of complicated data from re
 - Drafts of some chapters in the 4th ed. will be available for interested students.
 
 # Format and Zoom link
-- Classes and office hours through zoom [CMPT 459 Zoom](https://sfu.zoom.us/j/67922370112?pwd=TnZzY0FzdERseVMyWnNkMFJZbGc3dz09). Students are required to attend the classes. Classes will be recorded.
+- Classes and office hours through zoom [CMPT 741 Zoom](https://sfu.zoom.us/j/61388159289?pwd=eGJTVWZPYXdRNkFpcGlZanh5c3h6UT09). Students are required to attend the classes. Classes will be recorded.
 - In-class exams.
 
 # Course outline
@@ -41,13 +41,11 @@ What should you do when you are facing a huge amount of complicated data from re
 6. Outlier detection
 
 # Assignments
-- Assignment 1 (business intelligence)
-- Assignment 2 (mining patterns and rules)
-- Assignment 3 (predictive analytics)
-- Assignment 4 (clustering analysis and outlier detection)
+- Assignment 1 (business intelligence, mining patterns and rules)
+- Assignment 2 (predictive analytics, clustering analysis and outlier detection)
 
 # Schedule
 | Date | Topic | Assignment |
 |---|---|---|
-| May 14 | [Welcome and introduction](https://www.cs.sfu.ca/cc/459/jpei/21/459Introduction.pdf) | |
+| May 14 | [Welcome and introduction](https://www.cs.sfu.ca/cc/741/) | |
 | May 18 | Introduction (continued) |  |
