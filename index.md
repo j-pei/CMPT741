@@ -48,6 +48,6 @@ What should you do when you are facing a huge amount of complicated data from re
 
 | Date | Topic | Assignment |
 |---|---|---|
-| May 14 | [Welcome and introduction](https://www.cs.sfu.ca/cc/741/jpei/741introduction.pdf) | |
+| May 14 | [Welcome and introduction](https://www.cs.sfu.ca/cc/741/jpei/21/741introduction.pdf) | |
 | May 18 | Introduction (continued) |  |
 
