@@ -45,13 +45,9 @@ What should you do when you are facing a huge amount of complicated data from re
 - Assignment 2 (predictive analytics, clustering analysis and outlier detection)
 
 # Schedule
+
 | Date | Topic | Assignment |
 |---|---|---|
 | May 14 | [Welcome and introduction](https://www.cs.sfu.ca/cc/741/) | |
 | May 18 | Introduction (continued) |  |
-
-| Day | Time |
-|---|---|
-| Tuesday | 10:30 am -12:20 pm |
-| Friday | 2:30-4:20 pm |
 
