@@ -1,4 +1,4 @@
-# Welcome to CMPT 459: Introcution to Data Mining
+# Welcome to CMPT 741: Data Mining
 
 ## Class time
 May 12 - August 9, 2021
