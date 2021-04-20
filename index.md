@@ -12,7 +12,7 @@ May 12 - August 9, 2021
 |---|---|---|---|
 | Instructor | [Jian Pei](http://www.cs.sfu.ca/~jpei) | jpei@cs.sfu.ca | Fridays 11:30 am - 1:00 pm |
 | TA | TBD | | |
-
+ 
 ## About this course
 
 What should you do when you are facing a huge amount of complicated data from real life applications? This course introduces the core techniques in big data analytics, namely knowledge discovery in databases (KDD), also known as data mining (DM). It focuses on the principles, fundamental algorithms, implementations, and applications.
