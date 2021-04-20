@@ -49,3 +49,5 @@ What should you do when you are facing a huge amount of complicated data from re
 |---|---|---|
 | May 14 | [Welcome and introduction](https://www.cs.sfu.ca/cc/741/) | |
 | May 18 | Introduction (continued) |  |
+
+
