@@ -1,49 +1,53 @@
-# Welcome to CMPT 741: Data Mining
-
-## Class time
+# Class time
 May 12 - August 9, 2021
 
 | Day | Time |
 |---|---|
-| Tuesday | 2:30-4:20 pm |
-| Friday | 2:30-3:20 pm |
+| Tuesday | 10:30 am -12:20 pm |
+| Friday | 2:30-4:20 pm |
+
+# Instructor and TAs
+
+| Role | Name | Email | Office hour |
+|---|---|---|---|
+| Instructor | [Jian Pei](http://www.cs.sfu.ca/~jpei) | jpei@cs.sfu.ca | Fridays 11:30 am - 1:00 pm |
+| TA | TBD | | |
 
 ## About this course
 
 What should you do when you are facing a huge amount of complicated data from real life applications? This course introduces the core techniques in big data analytics, namely knowledge discovery in databases (KDD), also known as data mining (DM). It focuses on the principles, fundamental algorithms, implementations, and applications.
 
-You can use the [editor on GitHub](https://github.com/j-pei/CMPT459/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Prerequisites
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Comprehensive understanding and fluent skills in data structures, such as linked data structures, B-trees, and hash functions.
+- Analysis of algorithms and time complexity.
+- Operating systems, main memory and disk management, file systems.
+- Elementary probability theory and statistics, such as random variables, distributions, probability mass functions, sampling, and statistical tests.
 
-### Markdown
+# Textbook and references
+- (Official textbook) Data Mining: Concepts and Techniques (3rd ed.), Jiawei Han, Micheline Kamber, and Jian Pei, Morgan Kaufmann, 2011.
+- Drafts of some chapters in the 4th ed. will be available for interested students.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Format and Zoom link
+- Classes and office hours through zoom [CMPT 459 Zoom](https://sfu.zoom.us/j/67922370112?pwd=TnZzY0FzdERseVMyWnNkMFJZbGc3dz09). Students are required to attend the classes. Classes will be recorded.
+- In-class exams.
 
-```markdown
-Syntax highlighted code block
+# Course outline
+1. Welcome and introcution
+2. Business intelligence (data warehousing, OLAP and data lakes)
+3. Mining patterns and rules
+4. Predictive analytics
+5. Clustering analytics
+6. Outlier detection
 
-# Header 1
-## Header 2
-### Header 3
+# Assignments
+- Assignment 1 (business intelligence)
+- Assignment 2 (mining patterns and rules)
+- Assignment 3 (predictive analytics)
+- Assignment 4 (clustering analysis and outlier detection)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/j-pei/CMPT459/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Schedule
+| Date | Topic | Assignment |
+|---|---|---|
+| May 14 | [Welcome and introduction](https://www.cs.sfu.ca/cc/459/jpei/21/459Introduction.pdf) | |
+| May 18 | Introduction (continued) |  |
