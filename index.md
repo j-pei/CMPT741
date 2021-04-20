@@ -17,7 +17,7 @@ May 12 - August 9, 2021
 
 What should you do when you are facing a huge amount of complicated data from real life applications? This course introduces the core techniques in big data analytics, namely knowledge discovery in databases (KDD), also known as data mining (DM). It focuses on the principles, fundamental algorithms, implementations, and applications.
 
-# Prerequisites
+# Prerequisites 
 
 - Comprehensive understanding and fluent skills in data structures, such as linked data structures, B-trees, and hash functions.
 - Analysis of algorithms and time complexity.
