@@ -63,7 +63,7 @@ What should you do when you are facing a huge amount of complicated data from re
 | June 8 | Online | Course project kick-off |
 | June 11 | Online | Review for Exam 1 |
 | June 15 | Recorded | Clustering (1) |
-| June 18 | Online | Exam 1 |
+| June 18 | Online | **Exam 1** |
 | June 22 | Recorded | Clustering (2) |
 | June 25 | Recorded | Clustering (3) |
 | June 29 | Recorded | Outlier detection |
@@ -73,7 +73,7 @@ What should you do when you are facing a huge amount of complicated data from re
 | July 13 | Recorded | Outlier detection |
 | July 16 | Recorded | Advanced topics |
 | July 20 | Recorded | Advanced topics |
-| July 23 | Online | Exam 2 |
+| July 23 | Online | **Exam 2** |
 | July 27 | Recorded | Advanced topics |
 | July 30 | Online | Project presentations |
 | August 3 | Online | Project presentations| 
