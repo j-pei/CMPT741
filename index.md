@@ -47,6 +47,7 @@ What should you do when you are facing a huge amount of complicated data from re
 |---|---|---|
 | Assignment 1 (business intelligence, mining patterns and rules) | May 25 | June 16 |
 | Assignment 2 (predictive analytics, clustering analysis outlier detection) | June 22 | July 14 |
+| Assignment 3 (advanced topics) | July 15 | August 6 |
 
 # Schedule (tentative, subject to changes)
 
