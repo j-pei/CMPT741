@@ -68,13 +68,13 @@ What should you do when you are facing a huge amount of complicated data from re
 | June 25 | Recorded | Clustering (3) |
 | June 29 | Recorded | Outlier detection |
 | July 2 | Online | Course project check-up |
-| July 6 | Recorded | Advanced topics | 
+| July 6 | Recorded | Advanced topics (1) | 
 | July 9 | Online  | Review for Exam 2 |
 | July 13 | Recorded | Outlier detection |
-| July 16 | Recorded | Advanced topics |
-| July 20 | Recorded | Advanced topics |
+| July 16 | Recorded | Advanced topics (2) |
+| July 20 | Recorded | Advanced topics (3) |
 | July 23 | Online | **Exam 2** |
-| July 27 | Recorded | Advanced topics |
+| July 27 | Recorded | Advanced topics (4) |
 | July 30 | Online | Project presentations |
 | August 3 | Online | Project presentations| 
 | August 6 | Online | Project presentations |
