@@ -75,5 +75,5 @@ What should you do when you are facing a huge amount of complicated data from re
 | July 23 | Online | Exam 2 |
 | July 27 | Recorded | Advanced topics |
 | July 30 | Online | Project presentations |
-| August 3 | Real time | Project presentations| 
-| August 6 | Real time | Project presentations |
+| August 3 | Online | Project presentations| 
+| August 6 | Online | Project presentations |
