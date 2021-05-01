@@ -10,7 +10,7 @@ May 12 - August 9, 2021
 
 | Role | Name | Email | Office hour |
 |---|---|---|---|
-| Instructor | [Jian Pei](http://www.cs.sfu.ca/~jpei) | jpei@cs.sfu.ca | Fridays 11:30 am - 1:00 pm |
+| Instructor | [Jian Pei](http://www.cs.sfu.ca/~jpei) | jpei@cs.sfu.ca | Fridays 9:00 - 10:20 am |
 | TA | TBD | | |
  
 ## About this course
@@ -29,7 +29,8 @@ What should you do when you are facing a huge amount of complicated data from re
 - Drafts of some chapters in the 4th ed. will be available for interested students.
 
 # Format and Zoom link
-- Classes and office hours through zoom [CMPT 741 Zoom](https://sfu.zoom.us/j/61388159289?pwd=eGJTVWZPYXdRNkFpcGlZanh5c3h6UT09). Students are required to attend the classes. Classes will be recorded.
+- Classes and office hours through zoom [CMPT 741 Zoom](https://sfu.zoom.us/j/61388159289?pwd=eGJTVWZPYXdRNkFpcGlZanh5c3h6UT09). 
+- A combination of online classes and recorded lectures.  Students are required to attend the online classes. See the schedule section for details.
 - In-class exams.
 
 # Course outline
@@ -40,36 +41,39 @@ What should you do when you are facing a huge amount of complicated data from re
 5. Clustering analytics
 6. Outlier detection
 
-# Assignments
-- Assignment 1 (business intelligence, mining patterns and rules)
-- Assignment 2 (predictive analytics, clustering analysis and outlier detection)
+# Assignments (tentative, subject to changes)
+
+| Assignment | Release date | Due date |
+|---|---|---|
+| Assignment 1 (business intelligence, mining patterns and rules) | May 25 | June 16 |
+| Assignment 2 (predictive analytics, clustering analysis outlier detection) | June 22 | 
 
 # Schedule (tentative, subject to changes)
 
-| Date | Real time or recorded lecture Topic | Topic | Assignment |
-|---|---|---|---|
-| May 14 | Real time | Orientation | |
-| May 18 | Recorded lecture | [Introduction](https://www.cs.sfu.ca/cc/459/jpei/21/459Introduction.pdf) |  |
-| May 21 | Recorded lecture | Frequent pattern mining (1) | |
-| May 25 | Recorded lecture | Frequent pattern mining (2)| |
-| May 28 | Recorded lecture | Frequent pattern mining (3) | |
-| June 1 | Recorded lecture | Classification (1) | |
-| June 4 | Recorded lecture | Classification (2) | |
-| June 8 | Recorded lecture | Classification (3) | |
-| June 11 | Real time | Review for Exam 1 | |
-| June 15 | Real time | Course project kick-off | |
-| June 18 | Real time | Exam 1 | |
-| June 22 | Recorded lecture | Clustering (1) | |
-| June 25 | Recorded lecture | Clustering (2) | |
-| June 29 | Recorded lecture | Clustering (3) | |
-| July 2 | Real time | Course project check-up | |
-| July 6 | Recorded lecture | Outlier detection | |
-| July 9 | Recorded lecture | Data warehousing and OLAP  | |
-| July 13 | Recorded lecture | Outlier detection | |
-| July 16 | Recorded lecture | Advanced topics | |
-| July 20 | Recorded lecture | Advanced topics | |
-| July 23 | Real time | Review for Exam 2 | |
-| July 27 | Recorded lecture | Advanced topics | |
-| July 30 | Real time | Exam 2 | |
-| August 3 | Real time | Project presentations| |
-| August 6 | Real time | Project presentations | |
+| Date | Real time or recorded lecture Topic | Topic |
+|---|---|---|
+| May 14 | Online | [Introduction](https://www.cs.sfu.ca/cc/459/jpei/21/459Introduction.pdf) |
+| May 18 | Recorded | Frequent pattern mining (1) |
+| May 21 | Recorded | Frequent pattern mining (2) |
+| May 25 | Recorded | Frequent pattern mining (3)|
+| May 28 | Recorded | Classification (1) |
+| June 1 | Recorded | Classification (2) |
+| June 4 | Recorded | Classification (3) |
+| June 8 | Online | Course project kick-off |
+| June 11 | Online | Review for Exam 1 |
+| June 15 | Recorded | Clustering (1) |
+| June 18 | Online | Exam 1 |
+| June 22 | Recorded | Clustering (2) |
+| June 25 | Recorded | Clustering (3) |
+| June 29 | Recorded | Outlier detection |
+| July 2 | Online | Course project check-up |
+| July 6 | Recorded | Advanced topics | 
+| July 9 | Online  | Review for Exam 2 |
+| July 13 | Recorded | Outlier detection |
+| July 16 | Recorded | Advanced topics |
+| July 20 | Recorded | Advanced topics |
+| July 23 | Online | Exam 2 |
+| July 27 | Recorded | Advanced topics |
+| July 30 | Online | Project presentations |
+| August 3 | Real time | Project presentations| 
+| August 6 | Real time | Project presentations |
