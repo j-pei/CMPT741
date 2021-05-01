@@ -44,10 +44,32 @@ What should you do when you are facing a huge amount of complicated data from re
 - Assignment 1 (business intelligence, mining patterns and rules)
 - Assignment 2 (predictive analytics, clustering analysis and outlier detection)
 
-# Schedule 
+# Schedule (tentative, subject to changes)
 
-| Date | Topic | Assignment |
-|---|---|---|
-| May 14 | [Welcome and introduction](https://www.cs.sfu.ca/cc/741/jpei/21/741Introduction.pdf) | |
-| May 18 | Introduction (continued) |  |
-
+| Date | Real time or recorded lecture Topic | Topic | Assignment |
+|---|---|---|---|
+| May 14 | Real time | Orientation | |
+| May 18 | Recorded lecture | [Introduction](https://www.cs.sfu.ca/cc/459/jpei/21/459Introduction.pdf) |  |
+| May 21 | Recorded lecture | Frequent pattern mining (1) | |
+| May 25 | Recorded lecture | Frequent pattern mining (2)| |
+| May 28 | Recorded lecture | Frequent pattern mining (3) | |
+| June 1 | Recorded lecture | Classification (1) | |
+| June 4 | Recorded lecture | Classification (2) | |
+| June 8 | Recorded lecture | Classification (3) | |
+| June 11 | Real time | Review for Exam 1 | |
+| June 15 | Real time | Course project kick-off | |
+| June 18 | Real time | Exam 1 | |
+| June 22 | Recorded lecture | Clustering (1) | |
+| June 25 | Recorded lecture | Clustering (2) | |
+| June 29 | Recorded lecture | Clustering (3) | |
+| July 2 | Real time | Course project check-up | |
+| July 6 | Recorded lecture | Outlier detection | |
+| July 9 | Recorded lecture | Data warehousing and OLAP  | |
+| July 13 | Recorded lecture | Outlier detection | |
+| July 16 | Recorded lecture | Advanced topics | |
+| July 20 | Recorded lecture | Advanced topics | |
+| July 23 | Real time | Review for Exam 2 | |
+| July 27 | Recorded lecture | Advanced topics | |
+| July 30 | Real time | Exam 2 | |
+| August 3 | Real time | Project presentations| |
+| August 6 | Real time | Project presentations | |
