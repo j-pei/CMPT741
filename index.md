@@ -50,7 +50,7 @@ What should you do when you are facing a huge amount of complicated data from re
 
 # Schedule (tentative, subject to changes)
 
-| Date | Real time or recorded lecture Topic | Topic |
+| Date | Online or recorded | Topic |
 |---|---|---|
 | May 14 | Online | [Introduction](https://www.cs.sfu.ca/cc/459/jpei/21/459Introduction.pdf) |
 | May 18 | Recorded | Frequent pattern mining (1) |
