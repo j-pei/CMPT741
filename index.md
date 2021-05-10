@@ -30,51 +30,51 @@ What should you do when you are facing a huge amount of complicated data from re
 
 # Format and Zoom link
 - Classes and office hours through zoom [CMPT 741 Zoom](https://sfu.zoom.us/j/61388159289?pwd=eGJTVWZPYXdRNkFpcGlZanh5c3h6UT09). 
-- A combination of online classes and recorded lectures.  Students are required to attend the online classes. See the schedule section for details.
+- A combination of live zoom meeting sessions and pre-recorded lectures. Students are required to attend the live sessions. See the schedule section for details.
 - In-class exams.
 
 # Course outline
 1. Welcome and introcution
-2. Business intelligence (data warehousing, OLAP and data lakes)
-3. Mining patterns and rules
-4. Predictive analytics
-5. Clustering analytics
-6. Outlier detection
+2. Mining patterns and rules
+3. Predictive analytics
+4. Clustering analytics
+5. Outlier detection
+6. Advanced topics
 
 # Assignments (tentative, subject to changes)
 
 | Assignment | Release date | Due date |
 |---|---|---|
-| Assignment 1 (business intelligence, mining patterns and rules) | May 25 | June 16 |
+| Assignment 1 (mining patterns and rules) | May 25 | June 16 |
 | Assignment 2 (predictive analytics, clustering analysis outlier detection) | June 22 | July 14 |
 | Assignment 3 (advanced topics) | July 15 | August 6 |
 
 # Schedule (tentative, subject to changes)
 
-| Date | Online or recorded | Topic |
+| Date | Live or pre-recorded | Topic |
 |---|---|---|
-| May 14 | Online | Introduction [[slides](https://www.cs.sfu.ca/cc/741/jpei/21/741Introduction.pdf)] [[video](https://youtu.be/s0zgJRg-bI8)] |
-| May 18 | Recorded | Frequent pattern mining (1) |
-| May 21 | Recorded | Frequent pattern mining (2) |
-| May 25 | Recorded | Frequent pattern mining (3)|
-| May 28 | Recorded | Classification (1) |
-| June 1 | Recorded | Classification (2) |
-| June 4 | Recorded | Classification (3) |
-| June 8 | Online | Course project kick-off |
-| June 11 | Online | Review for Exam 1 |
-| June 15 | Recorded | Clustering (1) |
-| June 18 | Online | **Exam 1** |
-| June 22 | Recorded | Clustering (2) |
-| June 25 | Recorded | Clustering (3) |
-| June 29 | Recorded | Outlier detection |
-| July 2 | Online | Course project check-up |
-| July 6 | Recorded | Advanced topics (1) | 
-| July 9 | Online  | Review for Exam 2 |
-| July 13 | Recorded | Outlier detection |
-| July 16 | Recorded | Advanced topics (2) |
-| July 20 | Recorded | Advanced topics (3) |
-| July 23 | Online | **Exam 2** |
-| July 27 | Recorded | Advanced topics (4) |
-| July 30 | Online | Project presentations |
-| August 3 | Online | Project presentations| 
-| August 6 | Online | Project presentations |
+| May 14 | Live | Introduction [[slides](https://www.cs.sfu.ca/cc/741/jpei/21/741Introduction.pdf)] [[video](https://youtu.be/s0zgJRg-bI8)] |
+| May 18 | Pre-recorded | Frequent pattern mining (1) |
+| May 21 | Pre-recorded | Frequent pattern mining (2) |
+| May 25 | Pre-recorded | Frequent pattern mining (3)|
+| May 28 | Pre-recorded | Classification (1) |
+| June 1 | Pre-recorded | Classification (2) |
+| June 4 | Pre-recorded | Classification (3) |
+| June 8 | Live | Course project kick-off |
+| June 11 | Live | Review for Exam 1 |
+| June 15 | Pre-recorded | Clustering (1) |
+| June 18 | Live | **Exam 1** |
+| June 22 | Pre-recorded | Clustering (2) |
+| June 25 | Pre-recorded | Clustering (3) |
+| June 29 | Pre-recorded | Outlier detection |
+| July 2 | Live | Course project check-up |
+| July 6 | Pre-recorded | Advanced topics (1) | 
+| July 9 | Live  | Review for Exam 2 |
+| July 13 | Pre-recorded | Outlier detection |
+| July 16 | Pre-recorded | Advanced topics (2) |
+| July 20 | Pre-recorded | Advanced topics (3) |
+| July 23 | Live | **Exam 2** |
+| July 27 | Pre-recorded | Advanced topics (4) |
+| July 30 | Live | Project presentations |
+| August 3 | Live | Project presentations| 
+| August 6 | Live | Project presentations |
