@@ -54,7 +54,7 @@ What should you do when you are facing a huge amount of complicated data from re
 | Date | Live or pre-recorded | Topic |
 |---|---|---|
 | May 14 | Live | Introduction [[slides](https://www.cs.sfu.ca/cc/741/jpei/21/741Introduction.pdf)] [[video](https://youtu.be/s0zgJRg-bI8)] |
-| May 18 | Pre-recorded | Frequent pattern mining (1) |
+| May 18 | Pre-recorded | Frequent pattern mining (1) [[video](https://youtu.be/hUoG0JAA73I)] |
 | May 21 | Pre-recorded | Frequent pattern mining (2) |
 | May 25 | Pre-recorded | Frequent pattern mining (3)|
 | May 28 | Pre-recorded | Classification (1) |
