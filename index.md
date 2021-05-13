@@ -3,8 +3,8 @@ May 12 - August 9, 2021
 
 | Day | Time |
 |---|---|
-| Tuesday | 10:30 am -12:20 pm |
-| Friday | 10:30-11:20 am |
+| Tuesday | 10:30 am - 12:20 pm |
+| Friday | 10:30 - 11:20 am |
 
 # Instructor and TAs
 
