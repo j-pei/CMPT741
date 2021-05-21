@@ -10,8 +10,8 @@ May 12 - August 9, 2021
 
 | Role | Name | Email | Office hour |
 |---|---|---|---|
-| Instructor | [Jian Pei](http://www.cs.sfu.ca/~jpei) | jpei@cs.sfu.ca | Fridays 9:00 - 10:20 am |
-| TA | TBD | | |
+| Instructor | [Jian Pei](http://www.cs.sfu.ca/~jpei) | jpei@cs.sfu.ca | Fridays 9:00 - 10:20 am [Zoom link](https://sfu.zoom.us/j/68175691648?pwd=VWp0cTUrZWNWdWVMWHFibHpZZ3RUdz09) |
+| TA | Saghar Irandoust | sirandou@sfu.ca | TBA |
  
 ## About this course
 
