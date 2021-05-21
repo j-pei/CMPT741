@@ -47,7 +47,7 @@ What should you do when you are facing a huge amount of complicated data from re
 
 | Assignment | Release date | Due date |
 |---|---|---|
-| Assignment 1 (mining patterns and rules) | May 25 | June 16 |
+| [Assignment 1 (mining patterns and rules)](https://www.cs.sfu.ca/CourseCentral/Hypermail/cmpt-741/0000.html) | May 25 | June 16 |
 | Assignment 2 (predictive analytics, clustering analysis outlier detection) | June 22 | July 14 |
 | Assignment 3 (advanced topics) | July 15 | August 6 |
 
