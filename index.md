@@ -57,7 +57,7 @@ What should you do when you are facing a huge amount of complicated data from re
 | May 18 | Pre-recorded | Frequent pattern mining (1) (Chapters 6.1 & 6.2) [[slides](https://www.cs.sfu.ca/cc/741/jpei/21/741PatternMining.pdf)] [[video](https://youtu.be/Oh7rIMYQORo)] |
 | May 21 | Pre-recorded | Frequent pattern mining (2) (Chapters 6.2.6 & 7.3) [[slides](https://www.cs.sfu.ca/cc/741/jpei/21/741PatternMining.pdf)] [[video](https://youtu.be/9PIFFyDa3_Y)] |
 | May 25 | Pre-recorded | Frequent pattern mining (3) (Chapters 6.3 & [this paper](https://www2.cs.sfu.ca/~jpei/publications/spg.pdf)) [[slides](https://www.cs.sfu.ca/cc/741/jpei/21/741PatternMining.pdf)] [[video](https://youtu.be/6coyl0kAEDg)] |
-| May 28 | Pre-recorded | Classification (1) [[slides](https://www.cs.sfu.ca/cc/741/jpei/21/741Classification.pdf)] |
+| May 28 | Pre-recorded | Classification (1) [[slides](https://www.cs.sfu.ca/cc/741/jpei/21/741Classification.pdf)] [[video](https://youtu.be/Bc7T7o_8ALk)] |
 | June 1 | Pre-recorded | Classification (2) [[slides](https://www.cs.sfu.ca/cc/741/jpei/21/741Classification.pdf)] |
 | June 4 | Pre-recorded | Classification (3) [[slides](https://www.cs.sfu.ca/cc/741/jpei/21/741Classification.pdf)] |
 | June 8 | Live | Course project kick-off |
