@@ -29,8 +29,10 @@ What should you do when you are facing a huge amount of complicated data from re
 - Drafts of some chapters in the 4th ed. will be available for interested students.
 
 # Format and Zoom link
-- Classes and office hours through zoom [CMPT 741 Zoom](https://sfu.zoom.us/j/61388159289?pwd=eGJTVWZPYXdRNkFpcGlZanh5c3h6UT09). 
-- A combination of live zoom meeting sessions and pre-recorded lectures. Students are required to attend the live sessions. See the schedule section for details.
+- A combination of live zoom meeting sessions and pre-recorded lectures.  Students are required to attend the live sessions. See the schedule section for details.
+- Live sessions of classes through zoom [CMPT 741 Zoom](https://sfu.zoom.us/j/61388159289?pwd=eGJTVWZPYXdRNkFpcGlZanh5c3h6UT09). 
+- Instructor's office hours through zoom [Jian's office hour zoom](https://sfu.zoom.us/j/68175691648?pwd=VWp0cTUrZWNWdWVMWHFibHpZZ3RUdz09).
+- TAs' office hours through zoom [TAs' office hour zoom](https://sfu.zoom.us/j/61388159289?pwd=eGJTVWZPYXdRNkFpcGlZanh5c3h6UT09).
 - In-class exams.
 
 # Course outline
