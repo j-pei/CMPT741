@@ -83,7 +83,8 @@ What should you do when you are facing a huge amount of complicated data from re
 
 # References for course project
 * Data/model markets & pricing
-  - [Pei, J. (2020). A Survey on Data Pricing: from Economics to Data Science. ArXiv, abs/2009.04462.](https://arxiv.org/abs/2009.04462) [Podcast](https://thedataexchange.media/pricing-data-products/) [tutorial](https://youtube.com/playlist?list=PL8n-erTbIhTMvdXs657kBOp2pXFJVyAnB)* Interpretability
+  - [Pei, J. (2020). A Survey on Data Pricing: from Economics to Data Science. ArXiv, abs/2009.04462.](https://arxiv.org/abs/2009.04462) [Podcast](https://thedataexchange.media/pricing-data-products/) [tutorial](https://youtube.com/playlist?list=PL8n-erTbIhTMvdXs657kBOp2pXFJVyAnB)
+* Interpretability
   - [W. James Murdoch, Chandan Singh, Karl Kumbier, Reza Abbasi-Asl, Bin Yu, Definitions, methods, and applications in interpretable machine learning, 
 Proceedings of the National Academy of Sciences Oct 2019, 116 (44) 22071-22080; DOI: 10.1073/pnas.1900654116](https://www.pnas.org/content/116/44/22071)
   - [Carvalho, D.V.; Pereira, E.M.; Cardoso, J.S. Machine Learning Interpretability: A Survey on Methods and Metrics. Electronics 2019, 8, 832. https://doi.org/10.3390/electronics8080832](https://www.mdpi.com/2079-9292/8/8/832)
