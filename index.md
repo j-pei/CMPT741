@@ -80,3 +80,7 @@ What should you do when you are facing a huge amount of complicated data from re
 | July 30 | Live | Project presentations |
 | August 3 | Live | Project presentations| 
 | August 6 | Live | Project presentations |
+
+# References for course project
+- [W. James Murdoch, Chandan Singh, Karl Kumbier, Reza Abbasi-Asl, Bin Yu, Definitions, methods, and applications in interpretable machine learning, 
+Proceedings of the National Academy of Sciences Oct 2019, 116 (44) 22071-22080; DOI: 10.1073/pnas.1900654116](https://www.pnas.org/content/116/44/22071)
