@@ -91,4 +91,5 @@ Proceedings of the National Academy of Sciences Oct 2019, 116 (44) 22071-22080; 
 * Fairness/bias
   - [Mehrabi, Ninareh et al. “A Survey on Bias and Fairness in Machine Learning.” ArXiv abs/1908.09635 (2019)](https://arxiv.org/abs/1908.09635)
   - [Caton, Simon and C. Haas. “Fairness in Machine Learning: A Survey.” ArXiv abs/2010.04053 (2020).](https://arxiv.org/abs/2010.04053)
+  - [S. Barocas, M. Hardt, and A. Narayanan. "Fairness and Machine Learning".](https://fairmlbook.org)
 
