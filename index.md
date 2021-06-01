@@ -64,7 +64,7 @@ What should you do when you are facing a huge amount of complicated data from re
 | June 4 | Pre-recorded | Classification (3) [[slides](https://www.cs.sfu.ca/cc/741/jpei/21/741Classification.pdf)] [[video](https://youtu.be/sUDCy-gkEno)] |
 | June 8 | Live | Course project kick-off |
 | June 11 | Live | Review for Exam 1 |
-| June 15 | Pre-recorded | Clustering (1) |
+| June 15 | Pre-recorded | Clustering (1) [[slides](https://www.cs.sfu.ca/cc/741/jpei/21/741Clustering.pdf)] |
 | June 18 | Live | **Exam 1** |
 | June 22 | Pre-recorded | Clustering (2) |
 | June 25 | Pre-recorded | Clustering (3) |
