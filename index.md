@@ -64,7 +64,7 @@ What should you do when you are facing a huge amount of complicated data from re
 | June 4 | Pre-recorded | Classification (3) [[slides](https://www.cs.sfu.ca/cc/741/jpei/21/741Classification.pdf)] [[video](https://youtu.be/sUDCy-gkEno)] |
 | June 8 | Pre-recorded + Live | Trustworthy data science: [[slides](https://www.cs.sfu.ca/cc/741/jpei/21/TrustworthyDataScience.pdf), [video](https://youtu.be/mJPgVlXwdY8)] Course project kick-off [[slides](https://www.cs.sfu.ca/cc/741/jpei/21/741Project.pdf), [live session recording](https://youtu.be/Gxu5v7ffM-M)] |
 | June 11 | Live | Review for Exam 1 [[slides](https://www.cs.sfu.ca/cc/741/jpei/21/741Exam1.pdf)] [[Live session recording](https://youtu.be/iPbDGtL-Rxg)]  |
-| June 15 | Pre-recorded | Clustering (1) [[slides](https://www.cs.sfu.ca/cc/741/jpei/21/741Clustering.pdf)] |
+| June 15 | Pre-recorded | Clustering (1) [[slides](https://www.cs.sfu.ca/cc/741/jpei/21/741Clustering.pdf)] [[video](https://youtu.be/sOhDfm1NEyY)] |
 | June 18 | Live | **Exam 1** |
 | June 22 | Pre-recorded | Clustering (2) [[slides](https://www.cs.sfu.ca/cc/741/jpei/21/741Clustering.pdf)] |
 | June 25 | Pre-recorded | Clustering (3) [[slides](https://www.cs.sfu.ca/cc/741/jpei/21/741Clustering.pdf)] |
