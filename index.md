@@ -59,12 +59,12 @@ What should you do when you are facing a huge amount of complicated data from re
 | May 18 | Pre-recorded | Frequent pattern mining (1) (Chapters 6.1 & 6.2) [[slides](https://www.cs.sfu.ca/cc/741/jpei/21/741PatternMining.pdf)] [[video](https://youtu.be/Oh7rIMYQORo)] |
 | May 21 | Pre-recorded | Frequent pattern mining (2) (Chapters 6.2.6 & 7.3) [[slides](https://www.cs.sfu.ca/cc/741/jpei/21/741PatternMining.pdf)] [[video](https://youtu.be/9PIFFyDa3_Y)] |
 | May 25 | Pre-recorded | Frequent pattern mining (3) (Chapters 6.3 & [this paper](https://www2.cs.sfu.ca/~jpei/publications/spg.pdf)) [[slides](https://www.cs.sfu.ca/cc/741/jpei/21/741PatternMining.pdf)] [[video](https://youtu.be/6coyl0kAEDg)] |
-| May 28 | Pre-recorded | Classification (1) [[slides](https://www.cs.sfu.ca/cc/741/jpei/21/741Classification.pdf)] [[video](https://youtu.be/Bc7T7o_8ALk)] |
-| June 1 | Pre-recorded | Classification (2) [[slides](https://www.cs.sfu.ca/cc/741/jpei/21/741Classification.pdf)] [[video](https://youtu.be/lmpHOak1kEI)]|
-| June 4 | Pre-recorded | Classification (3) [[slides](https://www.cs.sfu.ca/cc/741/jpei/21/741Classification.pdf)] [[video](https://youtu.be/sUDCy-gkEno)] |
+| May 28 | Pre-recorded | Classification (1) (Chapters 8.1 & 8.2) [[slides](https://www.cs.sfu.ca/cc/741/jpei/21/741Classification.pdf)] [[video](https://youtu.be/Bc7T7o_8ALk)] |
+| June 1 | Pre-recorded | Classification (2) (Chapters 8.5 & 8.6) [[slides](https://www.cs.sfu.ca/cc/741/jpei/21/741Classification.pdf)] [[video](https://youtu.be/lmpHOak1kEI)]|
+| June 4 | Pre-recorded | Classification (3) (Chapters 8.3, 9.2, 9.3, 9.5) [[slides](https://www.cs.sfu.ca/cc/741/jpei/21/741Classification.pdf)] [[video](https://youtu.be/sUDCy-gkEno)] |
 | June 8 | Pre-recorded + Live | Trustworthy data science: [[slides](https://www.cs.sfu.ca/cc/741/jpei/21/TrustworthyDataScience.pdf), [video](https://youtu.be/mJPgVlXwdY8)] Course project kick-off [[slides](https://www.cs.sfu.ca/cc/741/jpei/21/741Project.pdf), [live session recording](https://youtu.be/Gxu5v7ffM-M)] |
 | June 11 | Live | Review for Exam 1 [[slides](https://www.cs.sfu.ca/cc/741/jpei/21/741Exam1.pdf)] [[Live session recording](https://youtu.be/iPbDGtL-Rxg)]  |
-| June 15 | Pre-recorded | Clustering (1) [[slides](https://www.cs.sfu.ca/cc/741/jpei/21/741Clustering.pdf)] [[video](https://youtu.be/sOhDfm1NEyY)] |
+| June 15 | Pre-recorded | Clustering (1) (Chapters 10.1 & 10.2) [[slides](https://www.cs.sfu.ca/cc/741/jpei/21/741Clustering.pdf)] [[video](https://youtu.be/sOhDfm1NEyY)] |
 | June 18 | Live | **Exam 1** |
 | June 22 | Pre-recorded | Clustering (2) [[slides](https://www.cs.sfu.ca/cc/741/jpei/21/741Clustering.pdf)] |
 | June 25 | Pre-recorded | Clustering (3) [[slides](https://www.cs.sfu.ca/cc/741/jpei/21/741Clustering.pdf)] |
