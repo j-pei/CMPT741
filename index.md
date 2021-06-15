@@ -70,9 +70,9 @@ What should you do when you are facing a huge amount of complicated data from re
 | June 25 | Pre-recorded | Clustering (3) (Chapters 11.2.3 & 10.6) [[slides](https://www.cs.sfu.ca/cc/741/jpei/21/741Clustering.pdf)] [[video](https://youtu.be/aaOapdOr-Pg)] |
 | June 29 | Pre-recorded | Outlier detection [[slides](https://www.cs.sfu.ca/cc/741/jpei/21/741OutlierDetection.pdf)] |
 | July 2 | Live | Course project check-up |
-| July 6 | Pre-recorded | Advanced topics (1) | 
+| July 6 | Pre-recorded | Advanced topics: deep learning (1) | 
 | July 9 | Live  | Review for Exam 2 |
-| July 13 | Pre-recorded | Outlier detection |
+| July 13 | Pre-recorded | Advanced topics: deep learning (2) |
 | July 16 | Pre-recorded | Data Pricing (1) [[slide](https://www.cs.sfu.ca/~jpei/publications/Data%20Pricing%20by%20Jian%20Pei%20KDD%202020.pdf)] [[video](https://youtube.com/playlist?list=PL8n-erTbIhTNbjM303DhQaxGa4HCeGyWf)] |
 | July 20 | Pre-recorded | Data Pricing (2) [[slide](https://www.cs.sfu.ca/~jpei/publications/Data%20Pricing%20by%20Jian%20Pei%20KDD%202020.pdf)] [[video](https://youtube.com/playlist?list=PL8n-erTbIhTMuewn3pdPh2wcmQVpfuerI)] |
 | July 23 | Live | **Exam 2** |
