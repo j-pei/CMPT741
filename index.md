@@ -73,8 +73,8 @@ What should you do when you are facing a huge amount of complicated data from re
 | July 6 | Pre-recorded | Advanced topics (1) | 
 | July 9 | Live  | Review for Exam 2 |
 | July 13 | Pre-recorded | Outlier detection |
-| July 16 | Pre-recorded | Advanced topics (2) |
-| July 20 | Pre-recorded | Advanced topics (3) |
+| July 16 | Pre-recorded | Data Pricing (1) [[slide](https://www.cs.sfu.ca/~jpei/publications/Data%20Pricing%20by%20Jian%20Pei%20KDD%202020.pdf)] [[video](https://youtube.com/playlist?list=PL8n-erTbIhTNbjM303DhQaxGa4HCeGyWf)] |
+| July 20 | Pre-recorded | Data Pricing (2) [[slide](https://www.cs.sfu.ca/~jpei/publications/Data%20Pricing%20by%20Jian%20Pei%20KDD%202020.pdf)] [[video](https://youtube.com/playlist?list=PL8n-erTbIhTMuewn3pdPh2wcmQVpfuerI)] |
 | July 23 | Live | **Exam 2** |
 | July 27 | Pre-recorded | Advanced topics (4) |
 | July 30 | Live | Project presentations |
