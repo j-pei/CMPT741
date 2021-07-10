@@ -72,11 +72,11 @@ What should you do when you are facing a huge amount of complicated data from re
 | July 2 | Live | Course project check-up |
 | July 6 | Pre-recorded | Outlier detection (2) (Chapters 12.4, 12.5, 12.6, 12.7 & 12.8) [[slides](https://www.cs.sfu.ca/cc/741/jpei/21/741OutlierDetection.pdf)] [[video](https://youtu.be/gQFnRTFi5Ig)] | 
 | July 9 | Live  | Review for Exam 2 [[slides](https://www.cs.sfu.ca/cc/741/jpei/21/741Exam2.pdf)] [[Live session recording](https://youtu.be/ePUdg-PkcSM)]|
-| July 13 | Pre-recorded | Advanced topics: deep learning |
-| July 16 | Pre-recorded | Data Pricing (1) [[slide](https://www.cs.sfu.ca/~jpei/publications/Data%20Pricing%20by%20Jian%20Pei%20KDD%202020.pdf)] [[video](https://youtube.com/playlist?list=PL8n-erTbIhTNbjM303DhQaxGa4HCeGyWf)] |
-| July 20 | Pre-recorded | Data Pricing (2) [[slide](https://www.cs.sfu.ca/~jpei/publications/Data%20Pricing%20by%20Jian%20Pei%20KDD%202020.pdf)] [[video](https://youtube.com/playlist?list=PL8n-erTbIhTMuewn3pdPh2wcmQVpfuerI)] |
+| July 13 | Pre-recorded | Introduction to deep learning (1) [[video](https://youtu.be/6eFyaPxDer0)] |
+| July 16 | Pre-recorded | Introduction to deep learning (2) |
+| July 20 | Pre-recorded | Data Pricing (1) [[slide](https://www.cs.sfu.ca/~jpei/publications/Data%20Pricing%20by%20Jian%20Pei%20KDD%202020.pdf)] [[video](https://youtube.com/playlist?list=PL8n-erTbIhTNbjM303DhQaxGa4HCeGyWf)] |
 | July 23 | Live | **Exam 2** |
-| July 27 | Pre-recorded | Advanced topics (4) |
+| July 27 | Pre-recorded | Data Pricing (2) [[slide](https://www.cs.sfu.ca/~jpei/publications/Data%20Pricing%20by%20Jian%20Pei%20KDD%202020.pdf)] [[video](https://youtube.com/playlist?list=PL8n-erTbIhTMuewn3pdPh2wcmQVpfuerI)] |
 | July 30 | Live | Project presentations |
 | August 3 | Live | Project presentations| 
 | August 6 | Live | Project presentations |
